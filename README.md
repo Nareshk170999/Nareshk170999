@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nareshk170999 and my LinkedIn🧑 https://www.linkedin.com/in/nareshkumark17/
+- 👋 Hi, I’m NareshKumar K 
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Java+DSA
 - 👩‍💻 I'm at an intermediate level of knowledge in DSA
