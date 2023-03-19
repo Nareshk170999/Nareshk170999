@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nareshk170999 and my LinkedIn🧑 https://www.linkedin.com/in/nareshkumark17/
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Java+DSA
-- 👩‍💻 and I'm Intermediate level of Knowledge in DSA
+- 👩‍💻 I'm at an intermediate level of knowledge in DSA
 - 💞️ I’m looking to collaborate on Intership
 - 📫 How to reach me @naresh170999@gmail.com
 
