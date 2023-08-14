@@ -6,7 +6,7 @@
 - 📫 I’m actively seeking exciting job opportunities
 - 📩 How to reach me: naresh170999@gmail.com
 - 🔗 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/nareshkumark17/)
-- 🌐 Explore my profiles: [All Profiles](https://bento.me/nareshk17)
+- 🌐 Explore my profiles: [Click Here](https://bento.me/nareshk17)
 
 <!---
 Nareshk170999/Nareshk170999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
