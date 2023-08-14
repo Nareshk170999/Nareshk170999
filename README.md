@@ -1,5 +1,5 @@
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I’m NareshKumar K !
 
-- 👋 Hi, I’m NareshKumar K 
 - 💞️ I’m passionate about Full Stack Development
 - 🌱 I’m currently immersed in learning Java, Data Structures and Algorithms, Backend and Frontend technologies
 - 👩‍💻 I've reached an intermediate level of proficiency in Data Structures and Algorithms using Java
@@ -12,3 +12,10 @@
 Nareshk170999/Nareshk170999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+--
+
+🧰 Toolbox
+
+--
