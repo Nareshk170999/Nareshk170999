@@ -5,7 +5,7 @@
 - 👩‍💻 I've reached an intermediate level of proficiency in Data Structures and Algorithms using Java
 - 📫 I’m actively seeking exciting job opportunities
 - 📩 How to reach me: naresh170999@gmail.com
-- 🔗 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/nareshkumark17/)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/nareshkumark17/)
 - 🌐 Explore my profiles: [Click Here](https://bento.me/nareshk17)
 
 <!---
